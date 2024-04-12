@@ -1,0 +1,90 @@
+#+BRAIN_CHILDREN: Tags-explain
+
+#+BRAIN_PARENTS: Birchwood
+
+- Tags are concepts from which to claim parenthood.
+
+
+* KB*
+:PROPERTIES:
+:ID:       25d6b468-c333-4591-aa95-a7bfb7e886f2
+:END:
+
+- A Meta item that is an SOP or how-to
+
+* Notice*
+:PROPERTIES:
+:ID:       333c43b7-bb77-46a1-b2ba-b48c14397e95
+:BRAIN_CHILDREN: 37a88ed0-170f-4a3d-b5c2-8c1edac74b6b
+:END:
+
+- Any giving notice to residents.
+- Used as concept parent to Event
+
+* Brain*
+:PROPERTIES:
+:ID:       07c85b71-ea43-4f55-9d43-f596364e22e7
+:END:
+
+- How the Birchwood Brain works.
+- Anything to do with the BB-Brain.
+
+* Storage*
+:PROPERTIES:
+:ID:       fe978e00-5ac9-4c53-ab56-d1bf922cfc61
+:END:
+* Occupation*
+:PROPERTIES:
+:ID:       5847736f-4274-4b96-aa38-0d58f8a74243
+:BRAIN_CHILDREN:
+:END:
+
+- Apartment occupation status.
+
+** Unoccupied*
+:PROPERTIES:
+:ID:       3f71e274-158c-489a-8c14-244c1a0376e5
+:END:
+
+*** Offline*
+:PROPERTIES:
+:ID:       e723f36c-a32b-438c-ab6f-1ddadfabe76e
+:BRAIN_CHILDREN: Unit-A10
+:END:
+
+- Not occupy-able.
+- Gutted.
+- Waiting for rehab, renovation.
+
+
+*** Ready*
+:PROPERTIES:
+:ID:       2a545232-02d2-430b-a29a-2a5f94601265
+:END:
+
+- Ready for move-in.
+
+
+*** Rehab*
+:PROPERTIES:
+:ID:       4a849850-b2e1-4eb6-8e33-4dd973efeed5
+:END:
+
+- In process of being rehabbed, renovated.
+- Unoccupied
+
+** Occupied*
+:PROPERTIES:
+:ID:       df2393fa-e974-4cc1-96b4-d16df44fb0f4
+:BRAIN_CHILDREN: Unit-A1 Unit-A2 Unit-A3 Unit-A4 Store-Ab-3 Unit-A9 Unit-A11 Unit-A12
+:END:
+
+- Currently occupied.
+- Currently used.
+
+
+* Maintenance*
+:PROPERTIES:
+:ID:       864fad48-8b92-47bc-bd9e-37cffddc9aa0
+:BRAIN_CHILDREN: Store-Ac-1 Store-Ac-2 Store-Ac-3
+:END:

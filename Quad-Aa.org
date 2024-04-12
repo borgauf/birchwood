@@ -1,0 +1,5 @@
+#+BRAIN_EDGE_A-Building: is-in
+#+BRAIN_CHILDREN: Entry-Aa Unit-A1 Unit-A2 Unit-A3 Unit-A4 Store-Aa-1 Store-Aa-2 Store-Aa-3
+
+#+BRAIN_PARENTS: A-Building
+

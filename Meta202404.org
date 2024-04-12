@@ -1,0 +1,11 @@
+#+BRAIN_PARENTS: Meta
+
+* Combining org-brain and org-agenda
+:PROPERTIES:
+:ID:       63de4c27-ad35-40b9-99e7-c52aecd8617a
+:BRAIN_FRIENDS: Events-202404
+:END:
+:RESOURCES:
+- [[id:616c2ba8-8cd2-43fd-b49b-d9fb9eacb1dc][org-expiry stuff]]
+:END:
+

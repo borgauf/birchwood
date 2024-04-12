@@ -1,0 +1,36 @@
+#+BRAIN_EDGE_Quad-Ac: is-in
+#+BRAIN_PARENTS: Quad-Ac
+
+* Store-Ac-Bay-8
+:PROPERTIES:
+:ID:       d4b3e80d-f450-4ba1-966f-f1110deeffce
+:END:
+* Store-Ac-Bay-7
+:PROPERTIES:
+:ID:       7f621a70-4ee1-45ad-8db7-04327d3de689
+:BRAIN_PARENTS: Unit-A4
+:END:
+* Store-Ac-Bay-6
+:PROPERTIES:
+:ID:       b057b177-d7e0-49a5-bfda-faebc654d449
+:END:
+* Store-Ac-Bay-5
+:PROPERTIES:
+:ID:       a3775ec8-17a9-491c-8e33-8a9c6f5eb3d1
+:END:
+* Store-Ac-Bay-4
+:PROPERTIES:
+:ID:       32fa29c4-94c0-42dc-bef3-25571663def6
+:END:
+* Store-Ac-Bay-3
+:PROPERTIES:
+:ID:       0152711d-8f8f-45df-8ff5-b5cf5268b332
+:END:
+* Store-Ac-Bay-2
+:PROPERTIES:
+:ID:       e187b8b5-e381-4cc1-94a5-52cffd2ca029
+:END:
+* Store-Ac-Bay-1
+:PROPERTIES:
+:ID:       f41e05ba-e19a-4fdf-a727-9a95b17ff266
+:END:

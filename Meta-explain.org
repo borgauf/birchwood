@@ -1,0 +1,12 @@
+#+BRAIN_PARENTS: Meta
+
+* Meta-explain-abstract
+:PROPERTIES:
+:ID:       5cb20eb7-c630-4c7e-a878-ee60705dc899
+:END:
+
+Meta is for explanation, discussion, SOP of Birchwood
+
+- tasks
+- issues
+- knowledge base

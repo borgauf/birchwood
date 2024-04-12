@@ -1,0 +1,9 @@
+#+BRAIN_PARENTS: Tags
+
+
+* Tags-explain-abstract
+:PROPERTIES:
+:ID:       335ed055-80eb-4e19-93dc-1553cd7559ad
+:END:
+
+- Tags are like concepts that items can have as a further parent.

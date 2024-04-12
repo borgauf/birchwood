@@ -1,2 +1,4 @@
+#+BRAIN_CHILDREN: Quad-Aa Quad-Ab Quad-Ac Quad-Ad
+
 #+BRAIN_PARENTS: Facilities
 

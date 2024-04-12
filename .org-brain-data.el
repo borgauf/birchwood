@@ -1,5 +1,10 @@
 (setq org-brain-pins
       '(
-        "Gedanken202304"
-        "Gedanken"
+        "Meta"
+        "Events-202404"
+        "Tags"
+        "Birchwood"
+        "KB"
+        "B-Building"
+        "A-Building"
         ))

@@ -1,0 +1,79 @@
+#+BRAIN_PARENTS: 37a88ed0-170f-4a3d-b5c2-8c1edac74b6b
+
+* Storage Assessment
+:PROPERTIES:
+:ID:       038bca41-cb55-4b84-ba4f-42a41c53117f
+:END:
+
+As part of Birchwood spring cleaning we'd like to get an idea of who
+has what in which storage locations. We already have many of your
+storage areas figured out, i.e.,
+
+- You have a /storage closet/ in the hallway outside in your quad
+  /and/
+- You have a key (and we have a backup key) for this closet.
+- You have a /storage bay compartment/ with padlock on it[fn:1].
+  
+But some of us
+
+- Do *not* have any extra-apartment storage, /and/
+- Are *not* using a /storage bay compartment/ /or/
+- Are using a storage closet or bay compartment without key or lock
+
+Yes, I have spoken to some of you and we are good with storage. But I
+would like everyone to contact me (text me; email me; or write reply
+on this flyer) with your latest storage situation, noting the *ID
+sticker info* of your storage place[fn:2]. Of course if you have no
+storage and would like a storage bay compartment, let me know.\\
+\\
+Note: After getting everyone's responses, I will need to assess the
+storage bay situation and begin clearing out unclaimed compartments,
+or changing locks on unclaimed bay compartments and hall closets. \\
+\\
+Write your storage situation below (or text or email me at
+birchwoodgmmn@gmail.com)
+
+* No export :noexport:
+:PROPERTIES:
+:ID:       978e7dce-d058-41b6-a744-c76922e3af01
+:END:
+
+#+TITLE: Storage Assessment
+#+SUBTITLE: Figuring out your storage situation
+#+DATE: 2024-04-08T16:16:27
+#+AUTHOR: Larry Bottorff (text or call 218.387.5497)
+#+EMAIL: birchwoodgmmn@gmail.com
+#+LANGUAGE:  en 
+#+OPTIONS: H:15 num:nil toc:nil \n:nil @:t ::t |:t _:{} *:t ^:{} prop:nil d:t
+#+OPTIONS: html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" href="../codeismathiscode2/tufte.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="../codeismathiscode2/ox-tufte.css" type="text/css">
+#+EXPORT_SELECT_TAGS: export 
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [letterpaper]
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+# #+LATEX_HEADER: \cfoot{Birchwood Apartments}
+#+STARTUP: showall 
+#+STARTUP: align 
+#+STARTUP: indent 
+#+STARTUP: shrink 
+#+STARTUP: showall 
+#+STARTUP: align 
+#+STARTUP: inlineimages 
+#+STARTUP: logdrawer
+#+STARTUP: fnadjust 
+
+* Footnotes
+:PROPERTIES:
+:ID:       6602c5d8-88a7-4e37-b336-beec901c8fab
+:END:
+
+[fn:1] Bay storage compartments are on the second floor of the third quad of
+A-building and the first quad of B-building, that is, where mailboxes
+and laundry are, up on second floor.
+
+[fn:2] On each storage closet and storage bay compartment is a sticker
+indicating which storage it is. For example, *STORE-Aa-3* for a closet 3
+in A-Building Quad-a (A1,A2,A3,A4), or *Ba-BAY-1...10* for B-Building
+Quad-a storage bay, compartments 1 through 10.
